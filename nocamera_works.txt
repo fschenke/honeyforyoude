@@ -1,0 +1,3 @@
+adb root
+adb shell
+mount -o bind /storage/9016-4EF8 /mnt/sdcard/
